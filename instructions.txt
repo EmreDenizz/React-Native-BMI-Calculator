@@ -1,0 +1,11 @@
+BMI CALCULATOR
+
+Building a mobile BMI calculator
+
+- The app should take two measurements: height and weight.
+- The user should be able to select measurement system (SI [kg, cm]/Imperial[lb, in])
+- Body Mass Index (or BMI) is calculated as your weight (in kilograms) divided by
+the square of your height (in metres) or BMI = Kg/M2.
+- Your app should show the result with the information putting the result into intervals
+
+See example here: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi-m.htm
