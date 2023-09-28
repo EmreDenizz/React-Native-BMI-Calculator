@@ -15,4 +15,4 @@ Features:
 4. The user can clear all fields with **Clear Button**.
 
 ### SCREENSHOTS:
-<kbd><img src="screenshots/SS_1.png" height="600"/></kbd>    <kbd><img src="screenshots/SS_2.png" height="600"/></kbd>    <kbd><img src="screenshots/SS_3.png" height="600"/></kbd>
+<kbd><img src="screenshots/SS_1.png" height="500"/></kbd>    <kbd><img src="screenshots/SS_2.png" height="500"/></kbd>    <kbd><img src="screenshots/SS_3.png" height="500"/></kbd>
